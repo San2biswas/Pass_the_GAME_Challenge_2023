@@ -1,6 +1,7 @@
 # Pass_the_GAME_Challenge_2023
  a passing to another dev without comunicating game jam...
 
+Game Jam : https://itch.io/jam/day-2
 
 
 Day 1 : 
