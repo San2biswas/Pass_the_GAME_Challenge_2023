@@ -18,7 +18,7 @@ Work done:
 
 Visual update :
 
-- added "Effect_1", "Effect_2", "Effect_3" for live feel
+- added "Effect_1", "Effect_2", "Effect_3", "Effect_3" for live feel (fx : colorize, distortion, camera shake and vignette )
 
 
 Tweaked for fast development :
