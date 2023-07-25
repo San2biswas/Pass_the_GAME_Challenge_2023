@@ -47,4 +47,8 @@ Bugs and fixes :
 player hp should not drop below 0 while destroying the enemies (my understanding to the game)
 
 
+# conclusion :
+
+I wasn't aware of this jam and liked it. after working for 4 hours, find out if not published in day 1 then can't be submitted day 2. wasn't aware of the rule properly.  A lesson learned. But enjoyed the whole process.
+
 ----------------------------------------------------------------------------------------------------------
